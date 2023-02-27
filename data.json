@@ -1,0 +1,4 @@
+[  {    "team": "Manchester United",    "wins": 20,    "losses": 5,    "draws": 3,    "points": 63  },  
+{    "team": "Manchester City",    "wins": 18,    "losses": 7,    "draws": 3,    "points": 57  },  
+{    "team": "Liverpool",    "wins": 17,    "losses": 6,    "draws": 5,    "points": 56  }
+]
