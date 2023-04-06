@@ -3,14 +3,14 @@ Using formula solid
 $primary: #FF0000;
 $home: #CDDDF3;
 $away: #ff0000;
-$cl: #131921;
-$base: white;
+$cl: #F1F1F1;
+$base: #131921;
 */
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&subset=latin,latin-ext");
 .sr-bb {
   font-family: "Roboto", "Noto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   text-align: left;
-  background: white;
+  background: #131921;
 }
 
 .sr-bb.sr-rtl {
@@ -23,7 +23,7 @@ $base: white;
 
 .sr-bb .srt-base-1 {
   background-color: transparent;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
@@ -47,19 +47,19 @@ $base: white;
 
 .sr-bb .srt-base-1-is-active {
   background-color: rgba(255, 0, 0, 0.12);
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-1-is-active-2 {
   background-color: #292f36;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-1-is-hoverable:hover {
   background-color: rgba(255, 0, 0, 0.12);
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
@@ -130,74 +130,74 @@ $base: white;
 }
 
 .sr-bb .srt-base-1-background {
-  background-color: white;
-  color: #131921;
+  background-color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-2 {
-  background-color: #131921;
-  color: #131921;
+  background-color: #f1f1f1;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-2-is-active {
   background-color: #ff0000;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-2-is-hoverable:hover {
   background-color: #ff0000;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-3 {
   background-color: #ff0000;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-3-is-active {
   background-color: #3b151b;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-3-is-hoverable:hover {
   background-color: #3b151b;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-3-background {
-  background-color: white;
-  color: #131921;
+  background-color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-4 {
   background-color: #1f181f;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-5-is-active {
   background-color: #501318;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-5-is-hoverable:hover {
   background-color: #501318;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-6 {
   background-color: transparent;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.3);
 }
 
@@ -282,12 +282,12 @@ $base: white;
 .sr-bb .srt-primary-8-is-active-2 {
   background-color: #ff1a1a;
   color: #ffffff;
-  border-color: white;
+  border-color: #131921;
 }
 
 .sr-bb .srt-primary-9 {
   background-color: #5a1217;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
@@ -382,7 +382,7 @@ $base: white;
 }
 
 .sr-bb .srt-base-1-primary-13 {
-  background-color: white;
+  background-color: #131921;
   color: #1f181f;
   border-color: rgba(255, 0, 0, 0.3);
 }
@@ -702,13 +702,13 @@ $base: white;
 .sr-bb .srt-home-3 {
   background-color: #CDDDF3;
   color: #000000;
-  border-color: white;
+  border-color: #131921;
 }
 
 .sr-bb .srt-away-3 {
   background-color: #ff0000;
   color: #ffffff;
-  border-color: white;
+  border-color: #131921;
 }
 
 .sr-bb .srt-home-4 {
@@ -737,31 +737,31 @@ $base: white;
 
 .sr-bb .srt-home-6 {
   background-color: rgba(205, 221, 243, 0.2);
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-away-6 {
   background-color: rgba(255, 0, 0, 0.2);
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-home-6-is-hoverable:hover {
   background-color: rgba(205, 221, 243, 0.2);
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-away-6-is-hoverable:hover {
   background-color: rgba(255, 0, 0, 0.2);
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-neutral-1 {
   background-color: #30353c;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
@@ -773,7 +773,7 @@ $base: white;
 
 .sr-bb .srt-neutral-3 {
   background-color: rgba(241, 241, 241, 0.12);
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
@@ -791,7 +791,7 @@ $base: white;
 
 .sr-bb .srt-neutral-6 {
   background-color: #484d53;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
@@ -803,13 +803,13 @@ $base: white;
 
 .sr-bb .srt-neutral-8 {
   background-color: #30353c;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-neutral-9 {
   background-color: #20262d;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
@@ -821,7 +821,7 @@ $base: white;
 
 .sr-bb .srt-neutral-11 {
   background-color: #6c6f74;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
@@ -833,7 +833,7 @@ $base: white;
 
 .sr-bb .srt-neutral-13 {
   background-color: #292f36;
-  color: #131921;
+  color: #F1F1F1;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
@@ -1272,7 +1272,7 @@ $base: white;
 
 .sr-bb .srt-mlb-hit-1 {
   background-color: #f7ab11;
-  color: #131921;
+  color: #F1F1F1;
   border-color: #f7ab11;
 }
 
@@ -1331,7 +1331,7 @@ $base: white;
 }
 
 .sr-bb .srt-fill-text {
-  fill: #131921;
+  fill: #F1F1F1;
 }
 
 .sr-bb .srt-fill-text-invert {
@@ -1823,11 +1823,11 @@ $base: white;
 }
 
 .sr-bb .srt-fill-neutral-14 {
-  fill: white;
+  fill: #131921;
 }
 
 .sr-bb .srt-stroke-neutral-14 {
-  stroke: white;
+  stroke: #131921;
 }
 
 .sr-bb .srt-logo-powered-by-light {
