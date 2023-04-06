@@ -23,7 +23,7 @@ $base: #f1f1f1;
 
 .sr-bb .srt-base-1 {
   background-color: transparent;
-  color: #F1F1F1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
@@ -47,19 +47,19 @@ $base: #f1f1f1;
 
 .sr-bb .srt-base-1-is-active {
   background-color: rgba(255, 0, 0, 0.12);
-  color: #F1F1F1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-1-is-active-2 {
   background-color: #292f36;
-  color: #F1F1F1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-1-is-hoverable:hover {
   background-color: rgba(255, 0, 0, 0.12);
-  color: #F1F1F1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
@@ -130,68 +130,68 @@ $base: #f1f1f1;
 }
 
 .sr-bb .srt-base-1-background {
-  background-color: #131921;
-  color: #F1F1F1;
+  background-color: #f1f1f1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-2 {
   background-color: #f1f1f1;
-  color: #F1F1F1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-2-is-active {
   background-color: #ff0000;
-  color: #F1F1F1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-2-is-hoverable:hover {
   background-color: #ff0000;
-  color: #F1F1F1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-3 {
   background-color: #ff0000;
-  color: #F1F1F1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-3-is-active {
   background-color: #3b151b;
-  color: #F1F1F1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-3-is-hoverable:hover {
   background-color: #3b151b;
-  color: #F1F1F1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-3-background {
   background-color: #131921;
-  color: #F1F1F1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-4 {
   background-color: #1f181f;
-  color: #F1F1F1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-5-is-active {
   background-color: #501318;
-  color: #F1F1F1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
 .sr-bb .srt-base-5-is-hoverable:hover {
   background-color: #501318;
-  color: #F1F1F1;
+  color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
 
