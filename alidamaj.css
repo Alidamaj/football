@@ -4,13 +4,13 @@ $primary: #FF0000;
 $home: #CDDDF3;
 $away: #ff0000;
 $cl: #131921;
-$base: #f1f1f1;
+$base: white;
 */
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&subset=latin,latin-ext");
 .sr-bb {
   font-family: "Roboto", "Noto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   text-align: left;
-  background: #f1f1f1;
+  background: white;
 }
 
 .sr-bb.sr-rtl {
@@ -130,7 +130,7 @@ $base: #f1f1f1;
 }
 
 .sr-bb .srt-base-1-background {
-  background-color: #131921;
+  background-color: white;
   color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
@@ -172,7 +172,7 @@ $base: #f1f1f1;
 }
 
 .sr-bb .srt-base-3-background {
-  background-color: #131921;
+  background-color: white;
   color: #131921;
   border-color: rgba(241, 241, 241, 0.12);
 }
@@ -282,7 +282,7 @@ $base: #f1f1f1;
 .sr-bb .srt-primary-8-is-active-2 {
   background-color: #ff1a1a;
   color: #ffffff;
-  border-color: #131921;
+  border-color: white;
 }
 
 .sr-bb .srt-primary-9 {
@@ -382,7 +382,7 @@ $base: #f1f1f1;
 }
 
 .sr-bb .srt-base-1-primary-13 {
-  background-color: #131921;
+  background-color: white;
   color: #1f181f;
   border-color: rgba(255, 0, 0, 0.3);
 }
@@ -702,13 +702,13 @@ $base: #f1f1f1;
 .sr-bb .srt-home-3 {
   background-color: #CDDDF3;
   color: #000000;
-  border-color: #131921;
+  border-color: white;
 }
 
 .sr-bb .srt-away-3 {
   background-color: #ff0000;
   color: #ffffff;
-  border-color: #131921;
+  border-color: white;
 }
 
 .sr-bb .srt-home-4 {
@@ -1331,7 +1331,7 @@ $base: #f1f1f1;
 }
 
 .sr-bb .srt-fill-text {
-  fill: #F1F1F1;
+  fill: #131921;
 }
 
 .sr-bb .srt-fill-text-invert {
@@ -1823,11 +1823,11 @@ $base: #f1f1f1;
 }
 
 .sr-bb .srt-fill-neutral-14 {
-  fill: #f1f1f1;
+  fill: white;
 }
 
 .sr-bb .srt-stroke-neutral-14 {
-  stroke: #f1f1f1;
+  stroke: white;
 }
 
 .sr-bb .srt-logo-powered-by-light {
